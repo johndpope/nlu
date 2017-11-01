@@ -3,8 +3,9 @@ Natural Language Understanding
 
 # requirements
 You need Python 3.5
-For parsing statements in English, you need the SpaCy library installed and models for English downloaded. See https://spacy.io/docs/#getting-started
-
+For parsing statements in English, you need the SpaCy library installed and models for English downloaded. See https://spacy.io/docs/#getting-started      
+python -m spacy download en      
+      
 # cli
 Run ```python3 cli.py``` to get a command line. Type ```help``` for available options.
 
